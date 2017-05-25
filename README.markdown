@@ -1,3 +1,10 @@
+# Edit
+
+This is the android-topeka project with the changes from the tutorial Build your First Instant App but until the step 6
+link: https://codelabs.developers.google.com/codelabs/android-instant-apps/#0
+
+The following below is the original Readme file
+
 # Topeka for Android
 
 A fun to play quiz that showcases material design on Android
